@@ -21,8 +21,8 @@
                     "createdAt": "2024-01-28T23:10:08.384Z",
                     "updatedAt": "2024-01-28T23:10:08.384Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b273bfe15592a6d05a773a/projects/65b6d867f12d56c6385ce01a/assets/65b6ded0f12d56c6385f925f?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240201T145136Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0178e103d75d3927fbc9a7f0f12db2b6c47fc79f32bab64e650f95b7bbab4785df6f3b956f19abeb391f6e81acc55025bc531654c52cb07feaad1653e9200a11752cc25f3be459589c74de5c39c893114b7a23eac8e68d2da8a1a4615f639d47d5edbe477d51c1bcb5a7d384fbca2d3bf918cb72e397de8bb6d2c0f078f248d9c686a6da951bc0fbbeddad4f4b17527fc0532480fb5b6ab03d89966eb77cc1f219ac2791978e85fb479fd2e50860ead46038748979179febfa8121fa941d456e7f3fa45330ac41c571c95ddaad7b475ca759d1d67ebef3b1f3a60d41f320c68826213ffb7edf398da5044c4302cab12e11f44e782e907b85cddd60cb9b9f0156",
-                    "signedUrlExpirationTime": 1706971896866
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b273bfe15592a6d05a773a/projects/65b6d867f12d56c6385ce01a/assets/65b6ded0f12d56c6385f925f?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T200820Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4c7f5dbb6109e4774fd6ed0d5292994c1fb27f8a85440049a64962f614b17550f862d7ef42ced8f1a12af6a569bded01f83b1f02c0c1711842fa586783072aa6ed0f659c07991a9fbbbae4b267921171118057457ee7553b466d62e4404fc7422391cfd0ac84af1521dfef7a8316f2daf411fb03d730825ac9a7701d3921c9ba76752d8a1a4f4062572a21f88d9295ed733c6efe8587555c92400e024f717d043b008f4df37ee8409c063bc25922a2d9ff354c6326f027fc487b67193d08abddd12e9ad80604d3a5b36180f5d2e43212fb46158ab9fc370550cb54728dd230041e6bed7b2f1583de9d4cbe3da37b01b00bdda5d677b6a7e997aefd034a7f5a8d",
+                    "signedUrlExpirationTime": 1707336500681
                 }
             },
             "backendUpgradeVersion": 24,
@@ -117,10 +117,10 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App Dev",
             "settings": {
                 "teamId": null,
-                "appName": "Camera",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -148,12 +148,7 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -169,7 +164,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": "Camera",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -197,12 +192,7 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
